@@ -1,0 +1,6 @@
+{
+  "name": "FR_OS Network Control & Dynamic Routing Platform",
+  "description": "Enterprise-grade Linux router and network operating system web console featuring CAKE/FQ_CoDel bufferbloat mitigation, multi-WAN policy-based routing, real-time eBPF/XDP telemetry, and declarative Git configuration versioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
